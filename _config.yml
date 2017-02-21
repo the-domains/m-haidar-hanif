@@ -1,0 +1,42 @@
+typography_spectrum: 0.05003937869332731
+color:
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  brandStrength: 0.17797876405529678
+  lightness: 0.9664018522016704
+  saturation: 0.24360079504549503
+  rhythmicContrast: 0.21717593353241682
+layout_spectrum: 0.26433078828267753
+author:
+  name: M Haidar Hanif
+  email: me@mhaidarhanif.com
+  url: 'https://mhaidarhanif.com'
+name: M Haidar Hanif
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Personal Website
+    url: 'https://mhaidarhanif.com'
+    type: external
+  - name: GitHub
+    url: 'https://github.com/mhaidarh'
+    type: external
+title: 'Hello, I''m Haidar!'
+content: []
+description: I mostly technically collaborating with people.
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/897ee206-5d09-4fdc-9a1d-4db701e442b8.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/07a3d0c3-c9b8-47fc-88e6-2459f3477862.png
+content_rating:
+  adult: false
